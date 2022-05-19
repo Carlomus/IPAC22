@@ -1,0 +1,11 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib.pyplot
+  - matplotlib.patches 
+  - scipy.linalg 
+  - IPython.display 
+  - matplotlib.widgets 
+  - ipywidgets 
